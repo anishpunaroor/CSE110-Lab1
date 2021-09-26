@@ -1,6 +1,6 @@
 # Hello, I'm Anish Punaroor!
 
-![Image](/assets/images/bearwave.jpeg)
+![image](https://user-images.githubusercontent.com/11761356/134826327-28204cd6-9ef4-480e-843b-bc596e7e9364.png)
 
 # Table of Contents
 1. [Background](#Background)
