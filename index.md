@@ -5,9 +5,9 @@
 I am a junior majoring in **Computer Engineering** at the [University of California, San Diego](https://ucsd.edu/). 
 
 ## Table of Contents
-1. [Background](##Background)
-2. [Programming Interests](##Programming-Interests)
-3. [Personal Interests](##Personal-Interests)
+1. [Background](https://github.com/anishpunaroor/CSE110-Lab1#Background)
+2. [Programming Interests](https://github.com/anishpunaroor/CSE110-Lab1#Programming-Interests)
+3. [Personal Interests](https://github.com/anishpunaroor/CSE110-Lab1#Personal-Interests)
 
 ## Background
 
