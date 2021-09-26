@@ -1,9 +1,11 @@
-# Hello, I'm Anish Punaroor
+# Hello, I'm Anish Punaroor!
+
+![Image](/assets/images/bearwave.jpeg)
 
 # Table of Contents
-1. [Example](#Background)
-2. [Example2](#Programming-Interests)
-3. [Third Example](#Personal-Interests)
+1. [Background](#Background)
+2. [Programming Interests](#Programming-Interests)
+3. [Personal Interests](#Personal-Interests)
 
 
 ## Background
