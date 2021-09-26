@@ -57,4 +57,7 @@ As for what I wish to become involved in and accomplish in the future, here is a
  - [ ] Learn how to ride a motorcycle
 
 
+If you wish, you can visit my [a link](README.md) . 
+
+
 This site was built using [GitHub Pages](https://pages.github.com/).
