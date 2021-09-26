@@ -5,10 +5,11 @@
 I am a junior majoring in **Computer Engineering** at the [University of California, San Diego](https://ucsd.edu/). 
 
 ## Table of Contents
-1. [Background](https://github.com/anishpunaroor/CSE110-Lab1#Background)
-2. [Programming Interests](https://github.com/anishpunaroor/CSE110-Lab1#Programming-Interests)
-3. [Personal Interests](https://github.com/anishpunaroor/CSE110-Lab1#Personal-Interests)
+1. [Background](#Background)
+2. [Programming Interests](#Programming-Interests)
+3. [Personal Interests](#Personal-Interests)
 
+<a name ="Background"/>
 ## Background
 
 I have lived in the Bay Area of California my whole life, moving around from city to city as a kid. Currently, I live in *San Ramon*, a town located in the East Bay Area. I have two cats named **Pandu** and **Pinto**, as well as a brother who is six years younger than me. 
@@ -17,7 +18,7 @@ One of my favorite quotes, by Salvador Dali, is:
 
 > Have no fear of perfection, you'll never reach it. 
 
-
+<a name ="Programming-Interests"/>
 ## Programming Interests
 
 As a programmer, I thought it would be fitting for me to give a top-5 ranking of my favorite languages to program in: 
@@ -46,6 +47,7 @@ However, I actually prefer Java more for this reason; I think having more string
 
 Currently, I am working on becoming mroe familiar with JavaScript, and I have been working with a variety of JavaScript frameworks such as Node.js, React, and Angular. I am also teaching myself Go, which has been pretty fulfilling so far. 
 
+<a name ="Personal-Interests"/>
 ## Personal Interests
 
 Some of the activities I enjoy doing in my free time are: 
