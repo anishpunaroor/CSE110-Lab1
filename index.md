@@ -11,6 +11,10 @@ I am a junior majoring in **Computer Engineering** at the [University of Califor
 
 I have lived in the Bay Area of California my whole life, moving around from city to city as a kid. Currently, I live in *San Ramon*, a town located in the East Bay Area. I have two cats named **Pandu** and **Pinto**, as well as a brother who is six years younger than me. 
 
+One of my favorite quotes, by Salvador Dali, is:
+
+> Have no fear of perfection, you'll never reach it. 
+
 
 ## Programming Interests
 
