@@ -1,5 +1,7 @@
 # Hello, I'm Anish Punaroor!
 
+![image](https://user-images.githubusercontent.com/11761356/134828168-920ffb3e-927c-4e71-987c-9b0708577554.png)
+
 I am a junior majoring in **Computer Engineering** at the [University of California, San Diego](https://ucsd.edu/). 
 
 ## Table of Contents
@@ -57,7 +59,7 @@ As for what I wish to become involved in and accomplish in the future, here is a
  - [ ] Learn how to ride a motorcycle
 
 
-If you wish, you can visit my [a link](README.md) . 
+If you wish, you can go back to the [README](README.md). 
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
