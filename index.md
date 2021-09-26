@@ -25,7 +25,7 @@ As a programmer, I thought it would be fitting for me to give a top-5 ranking of
 1. Java
 2. Python
 3. C/C++
-4. Javascript
+4. JavaScript
 5. Golang
 
 Now, Python admittedly has easier syntax to process. If you want to print a simple message to the console: 
@@ -43,6 +43,8 @@ public void print(String name) {
 ```
 
 However, I actually prefer Java more for this reason; I think having more stringent rules, such as specific method signatures, makes it easier for me to understand the code. 
+
+Currently, I am working on becoming mroe familiar with JavaScript, and I have been working with a variety of JavaScript frameworks such as Node.js, React, and Angular. I am also teaching myself Go, which has been pretty fulfilling so far. 
 
 ## Personal Interests
 
